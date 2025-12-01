@@ -49,8 +49,6 @@ Fraud represents only **0.17%** of all transactions → accuracy alone is mislea
 EDA was performed using:  
 `matplotlib`, `seaborn`, and `pandas`.
 
-All figures are stored in the `/figures` folder.
-
 ---
 
 ## 🛠️ Preprocessing Pipeline
